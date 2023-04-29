@@ -11,12 +11,15 @@ As I worked on this project in an introductory class, it taught me a lot about m
 
 Asteroids.zip above
 
+
+
 ### Floppy Fish
 Floppy Fish is a super cool spelling game made in Unity using C. My group chose this project because most of us had never used Unity and we were directed to develop a game related to either math or spelling. The game consists of two modes, explore and arcade. The explore mode leads the user through mazes where they collect a coin if they can spell a word correctly. The arcade mode has a moving background and obstacles for the user to avoid using the space button to jump. Again, the user collects coins by running into them and spelling a word correctly.
 
 This project gave me experience working in a group setting where each member had to collaborate with one another in order to achieve our game product. Since Unity was a new technology for most team members, it was a big learning curve and took a lot of problem solving to overcome obstacles. In this project, our team accomplished many Westminster college-wide learning goals. We combined our creativity and ideas to create an original game. We demonstrated critical thinking when exploring different directions to take our game as well as different solutions to issues that would arise.
 
 Link: https://github.com/cmpt322-2022spring/project-gudspelirz/tree/main/Floppy%20Fish
+
 
 
 ### Keepsake
@@ -26,6 +29,8 @@ Working on Keepsake gave me hands on experience working on a project independent
 
 keepsake.zip above
 
+
+
 ### IN TOUCH
 IN TOUCH is a communicative Android application that aims to assist those who are deaf or hard of hearing with daily interactions. I chose to do my CAPSTONE on this project because it seemed fun to work on, achievable, and it's purpose is to help people. The application takes in audio or text input and displays it largely on the screen for fluid conversation. The methods used to achieve this user-friendly application include: a simple design framework, speech-to-text and text-to-speech APIs, an interactive database, and visible front-end features of the application. This application was developed in Android Studio using Java.
 
@@ -33,10 +38,16 @@ This project helped me achieve many college-wide and CS specific learning goals.
 
 keep_in_touch.zip above
 
+
+
 ### Chatroom Protocol
 This group project is a protocol chatroom where users connect via messages back and forth across a network. We developed this protocol written in Java using Eclipse as a text editor. 
 
 This project was unlike any I had ever done. I gained a much better system-level understanding of network connections, IP addresses, threading, etc. As a team, we discussed issues together and worked to uncover and overcome any challenges.
+
+ChatroomProtocol.zip above
+
+
 
 ### Slope Perception Survey Website
 A web application that the client can use to conduct a neuroscience research project to evaluate human bias in perceptions of snow slope angles, especially for backcountry snow sports participants. 
