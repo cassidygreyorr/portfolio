@@ -11,6 +11,8 @@ Floppy Fish is a super cool spelling game made in Unity using C. My group chose 
 
 This project gave me experience working in a group setting where each member had to collaborate with one another in order to achieve our game product. Since Unity was a new technology for most team members, it was a big learning curve and took a lot of problem solving to overcome obstacles. In this project, our team accomplished many Westminster college-wide learning goals. We combined our creativity and ideas to create an original game. We demonstrated critical thinking when exploring different directions to take our game as well as different solutions to issues that would arise.
 
+Link: https://github.com/cmpt322-2022spring/project-gudspelirz/tree/main/Floppy%20Fish
+
 
 ### Keepsake
 Keepsake, a solo project, is a database made using MySQL with project code written in python and SQL. The database uses a console (text-based) application that interacts with multiple different users of the Deaf community. The purpose of this database is to store category and text information of the user’s choice.
@@ -32,3 +34,5 @@ This project helped me achieve many college-wide and CS specific learning goals.
 
 
 I demonstrated each of the college-wide learning goals while working on this project. Our team consisted of two web designers and four web developers. It took both collaboration and communication to succeed as a team and develop a successful product.
+
+Link: https://github.com/cmpt375-2021fall/client-project-neuroscience-research-development-team
